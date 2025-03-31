@@ -10,10 +10,14 @@ These firmware files are intended to be uploaded with the [Novastar Coex VMP sof
 
 ## Software Versions
 
-[REM 3IP, Batch "A"]
+[REM 3IP, Batch "A"](https://github.com/Chauvet-Pro/REM-3IP/blob/d0c180295b1fe73ece811fc48632c9c97d659f61/REM3IP%20Batch%20A%20ncp%20V1.00.03.ncp)
 
-[REM3IP, Batch "B"]
+[REM3IPSQ, Batch "A"](https://github.com/Chauvet-Pro/REM-3IP/blob/d0c180295b1fe73ece811fc48632c9c97d659f61/REM3IPSQ%20Batch%20A%20ncp%20V1.00.03.ncp)
 
-[REM3IP, Batch "C"]
+[REM3IP, Batch "B"](https://github.com/Chauvet-Pro/REM-3IP/blob/d0c180295b1fe73ece811fc48632c9c97d659f61/REM3IP%20Batch%20B%20ncp%20V1.00.04.ncp)
 
-[REM3IP, Batch "D"]
+[REM3IPSQ, Batch "B"](https://github.com/Chauvet-Pro/REM-3IP/blob/d0c180295b1fe73ece811fc48632c9c97d659f61/REM3IPSQ%20Batch%20B%20ncp%20V1.00.04.ncp)
+
+[REM3IP, Batch "C"](https://github.com/Chauvet-Pro/REM-3IP/blob/d0c180295b1fe73ece811fc48632c9c97d659f61/REM3IP%20Batch%20C%20ncp%20V1.00.06.ncp)
+
+[REM3IP, Batch "D"](https://github.com/Chauvet-Pro/REM-3IP/blob/d0c180295b1fe73ece811fc48632c9c97d659f61/REM3IP%20Batch%20D%20ncp%20V1.00.07.ncp)
