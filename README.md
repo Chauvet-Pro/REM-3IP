@@ -10,6 +10,10 @@ These firmware files are intended to be uploaded with the [Novastar Coex VMP sof
 
 ## Software Versions
 
+Notes-
+
+Uncheck Full-Grayscale box when module flashing and saving every panel.
+
 [REM 3IP, Batch "A"](https://github.com/Chauvet-Pro/REM-3IP/blob/d0c180295b1fe73ece811fc48632c9c97d659f61/REM3IP%20Batch%20A%20ncp%20V1.00.03.ncp)
 
 [REM3IPSQ, Batch "A"](https://github.com/Chauvet-Pro/REM-3IP/blob/d0c180295b1fe73ece811fc48632c9c97d659f61/REM3IPSQ%20Batch%20A%20ncp%20V1.00.03.ncp)
