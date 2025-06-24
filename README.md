@@ -31,8 +31,29 @@ Notes-
 
 [V1.00.04.ncp](https://github.com/Chauvet-Pro/REM-3IP/raw/d0c180295b1fe73ece811fc48632c9c97d659f61/REM3IP%20Batch%20B%20ncp%20V1.00.04.ncp)
 - Batch B, Launching Version 
+
 [V1.01.05.ncp]
-- Batch b
+- Batch B
+- Change the RV card firmware from 1.2.1.3 to V1.2.2.3.
+- Solve NCP file couldn't save rotate 90° problem after power cycle.
+
+## Batch "C"
+
+[V1.00.06.ncp](https://github.com/Chauvet-Pro/REM-3IP/blob/d0c180295b1fe73ece811fc48632c9c97d659f61/REM3IP%20Batch%20C%20ncp%20V1.00.06.ncp)
+- Batch C, Launching Version
+
+[V1.03.08.ncp]
+- Batch C
+- Change the RV card firmware from 1.2.1.3 to V1.2.2.3.
+- Solve NCP file couldn't save rotate 90° problem after power cycle.
+
+## Batch "D"
+
+[V1.00.07.ncp](https://github.com/Chauvet-Pro/REM-3IP/blob/d0c180295b1fe73ece811fc48632c9c97d659f61/REM3IP%20Batch%20D%20ncp%20V1.00.07.ncp)
+- Batch D, Launching Version
+
+[V1.03.08.ncp]
+- Batch D
 - Change the RV card firmware from 1.2.1.3 to V1.2.2.3.
 - Solve NCP file couldn't save rotate 90° problem after power cycle.
 
@@ -41,6 +62,3 @@ Notes-
 
 [REM3IPSQ, Batch "B"](https://github.com/Chauvet-Pro/REM-3IP/raw/d0c180295b1fe73ece811fc48632c9c97d659f61/REM3IPSQ%20Batch%20B%20ncp%20V1.00.04.ncp)
 
-[REM3IP, Batch "C"](https://github.com/Chauvet-Pro/REM-3IP/blob/d0c180295b1fe73ece811fc48632c9c97d659f61/REM3IP%20Batch%20C%20ncp%20V1.00.06.ncp)
-
-[REM3IP, Batch "D"](https://github.com/Chauvet-Pro/REM-3IP/blob/d0c180295b1fe73ece811fc48632c9c97d659f61/REM3IP%20Batch%20D%20ncp%20V1.00.07.ncp)
