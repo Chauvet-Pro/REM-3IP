@@ -15,6 +15,16 @@ Notes-
 Uncheck Full-Grayscale box when module flashing and saving every panel.
 
 [REM 3IP, Batch "A"](https://github.com/Chauvet-Pro/REM-3IP/raw/d0c180295b1fe73ece811fc48632c9c97d659f61/REM3IP%20Batch%20A%20ncp%20V1.00.03.ncp)
+Notes-
+
+V1.00.03.ncp
+- Batch A, launching version
+
+V1.00.04.ncp
+- Batch A
+- Improvements to exclude full grayscale from causing visual imperfections in  video rendering
+- Bug Fixes
+
 
 [REM3IPSQ, Batch "A"](https://github.com/Chauvet-Pro/REM-3IP/raw/d0c180295b1fe73ece811fc48632c9c97d659f61/REM3IPSQ%20Batch%20A%20ncp%20V1.00.03.ncp)
 
