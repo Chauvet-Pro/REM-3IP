@@ -15,7 +15,9 @@ Notes-
 Uncheck Full-Grayscale box when module flashing and saving every panel.
 
 #REM 3IP 
+
 ##Batch "A"
+
 Notes-
 
 [V1.00.03.ncp](https://github.com/Chauvet-Pro/REM-3IP/raw/d0c180295b1fe73ece811fc48632c9c97d659f61/REM3IP%20Batch%20A%20ncp%20V1.00.03.ncp)
@@ -27,6 +29,7 @@ Notes-
 - Solve NCP file couldn't save rotate 90° problem after power cycle.
 
 ##Batch "B"
+
 [V1.00.04.ncp](https://github.com/Chauvet-Pro/REM-3IP/raw/d0c180295b1fe73ece811fc48632c9c97d659f61/REM3IP%20Batch%20B%20ncp%20V1.00.04.ncp)
 - Batch B, Launching Version 
 [V1.01.05.ncp]
