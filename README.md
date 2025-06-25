@@ -19,7 +19,7 @@ Uncheck Full-Grayscale box when module flashing and saving every panel.
 
 Notes-
 
-[V1.00.03.ncp](https://github.com/Chauvet-Pro/REM-3IP/raw/d0c180295b1fe73ece811fc48632c9c97d659f61/REM3IP%20Batch%20A%20ncp%20V1.00.03.ncp)
+[V1.00.03.ncp](https://github.com/Chauvet-Pro/REM-3IP/raw/refs/heads/main/NCP_Files/REM3IP%20Batch%20A%20ncp%20V1.00.03.ncp)
 - Batch A, launching version
 
 [V1.00.04.ncp](https://github.com/Chauvet-Pro/REM-3IP/raw/refs/heads/main/NCP_Files/Chauvet%20Professional_REM3IP%20Batch%20A%20ncp%20V1.00.04.ncp)
@@ -29,7 +29,7 @@ Notes-
 
 ## Batch "B"
 
-[V1.00.04.ncp](https://github.com/Chauvet-Pro/REM-3IP/raw/d0c180295b1fe73ece811fc48632c9c97d659f61/REM3IP%20Batch%20B%20ncp%20V1.00.04.ncp)
+[V1.00.04.ncp](https://github.com/Chauvet-Pro/REM-3IP/raw/refs/heads/main/NCP_Files/REM3IP%20Batch%20B%20ncp%20V1.01.04.ncp)
 - Batch B, Launching Version 
 
 [V1.01.05.ncp](https://github.com/Chauvet-Pro/REM-3IP/raw/refs/heads/main/NCP_Files/Chauvet%20Professional_REM3IP%20Batch%20B%20ncp%20V1.01.05.ncp)
@@ -39,7 +39,7 @@ Notes-
 
 ## Batch "C"
 
-[V1.00.06.ncp](https://github.com/Chauvet-Pro/REM-3IP/blob/d0c180295b1fe73ece811fc48632c9c97d659f61/REM3IP%20Batch%20C%20ncp%20V1.00.06.ncp)
+[V1.00.06.ncp](https://github.com/Chauvet-Pro/REM-3IP/raw/refs/heads/main/NCP_Files/REM3IP%20Batch%20C%20ncp%20V1.00.06.ncp)
 - Batch C, Launching Version
 
 [V1.02.07.ncp](https://github.com/Chauvet-Pro/REM-3IP/raw/refs/heads/main/NCP_Files/Chauvet%20Professional_REM3IP%20Batch%20C%20ncp%20V1.02.07.ncp)
@@ -49,7 +49,7 @@ Notes-
 
 ## Batch "D"
 
-[V1.00.07.ncp](https://github.com/Chauvet-Pro/REM-3IP/blob/d0c180295b1fe73ece811fc48632c9c97d659f61/REM3IP%20Batch%20D%20ncp%20V1.00.07.ncp)
+[V1.00.07.ncp](https://github.com/Chauvet-Pro/REM-3IP/raw/refs/heads/main/NCP_Files/REM3IP%20Batch%20D%20ncp%20V1.00.07.ncp)
 - Batch D, Launching Version
 
 [V1.03.08.ncp](https://github.com/Chauvet-Pro/REM-3IP/raw/refs/heads/main/NCP_Files/Chauvet%20Professional_REM3IP%20Batch%20D%20ncp%20V1.03.08.ncp)
@@ -63,7 +63,7 @@ Notes-
 
 Notes-
 
-[V1.00.03.ncp](https://github.com/Chauvet-Pro/REM-3IP/raw/d0c180295b1fe73ece811fc48632c9c97d659f61/REM3IPSQ%20Batch%20A%20ncp%20V1.00.03.ncp)
+[V1.00.03.ncp](https://github.com/Chauvet-Pro/REM-3IP/raw/refs/heads/main/NCP_Files/REM3IPSQ%20Batch%20A%20ncp%20V1.00.03.ncp)
 - Batch A, launching version
 
 [V1.00.04.ncp](https://github.com/Chauvet-Pro/REM-3IP/raw/refs/heads/main/NCP_Files/Chauvet%20Professional_REM3IPSQ%20Batch%20A%20ncp%20V1.00.04.ncp)
@@ -76,7 +76,7 @@ Notes-
 
 Notes-
 
-[V1.00.03.ncp](https://github.com/Chauvet-Pro/REM-3IP/raw/d0c180295b1fe73ece811fc48632c9c97d659f61/REM3IPSQ%20Batch%20B%20ncp%20V1.00.04.ncp)
+[V1.00.03.ncp](https://github.com/Chauvet-Pro/REM-3IP/raw/refs/heads/main/NCP_Files/REM3IPSQ%20Batch%20B%20ncp%20V1.00.04.ncp)
 - Batch B, launching version
 
 [V1.00.04.ncp](https://github.com/Chauvet-Pro/REM-3IP/raw/refs/heads/main/NCP_Files/Chauvet%20Professional_REM3IPSQ%20Batch%20B%20ncp%20V1.01.05.ncp)
