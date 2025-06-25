@@ -79,7 +79,7 @@ Notes-
 [V1.00.03.ncp](https://github.com/Chauvet-Pro/REM-3IP/raw/refs/heads/main/NCP_Files/REM3IPSQ%20Batch%20B%20ncp%20V1.00.04.ncp)
 - Batch B, launching version
 
-[V1.00.04.ncp](https://github.com/Chauvet-Pro/REM-3IP/raw/refs/heads/main/NCP_Files/Chauvet%20Professional_REM3IPSQ%20Batch%20B%20ncp%20V1.01.05.ncp)
+[V1.00.05.ncp](https://github.com/Chauvet-Pro/REM-3IP/raw/refs/heads/main/NCP_Files/Chauvet%20Professional_REM3IPSQ%20Batch%20B%20ncp%20V1.01.05.ncp)
 - Batch B
 - Change the RV card firmware from 1.2.1.3 to V1.2.2.3.
 - Solve NCP file couldn't save rotate 90° problem after power cycle.
