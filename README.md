@@ -15,7 +15,7 @@ Notes-
 Uncheck Full-Grayscale box when module flashing and saving every panel.
 
 # REM 3IP 
-## Batch "A"/ [CONFIG DATA](https://github.com/Chauvet-Pro/REM-3IP/raw/refs/heads/main/ConfigData_files/Chauvet%20Professional-REM3IP-Batch%20%E2%80%9CA%E2%80%9D-ConfigData_CH.txt)
+## Batch "A" [CONFIG DATA](https://github.com/Chauvet-Pro/REM-3IP/blob/main/ConfigData_files/Chauvet%20Professional-REM3IP-Batch%20%E2%80%9CA%E2%80%9D-ConfigData_CH.txt))
 
 Notes-
 
