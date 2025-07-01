@@ -1,0 +1,100 @@
+File type：NCP
+Library Name：REM3IPSQ_Chauvet Professional_B2_20250424101943
+NCP Remarks：1
+Cabinet Count：1
+Generate Time：2025/4/24 10:19:43
+Generate Person：雷俊
+——————————————————————————————————————————————————————————————————————————————————————
+Cabinet：1
+Basic Info：
+     File ID：6435F4F739629F4683449D626E31320D
+     Manufacturer：Chauvet Professional
+     Cabinet Model：REM3IPSQ
+     Release：B2
+     Resolution：128x128
+     Pixel Pitch：3.9
+     Driver Chip：ICND2065
+     Decode Chip：Decode5958
+     Scans：16
+     Rv Card：A10s Pro
+     Version：1.2.1.3
+     Cabinet Description：W3.9-500x1000
+
+Parm Info：
+     Thermal Compensation：Manual
+     Calibration Switch：√Brightness、×Brightness and chroma、×Full-grayscale、×AutoCorrectionWEn、×Low-grayscale、×Seams
+     Low Lattency：on
+     Adaptive MultiFrameRate：V3
+
+     Display Mode：
+          Outdoor Mode：
+               23.00-60.00 Hz
+                    Dynamic Booster Max Brightness：2347Nits
+                    Before Calibration Brightness：4695Nits
+                    After Calibration Brightness：4182Nits
+                    Thermal compensation：√Gamut、√Brightness、√Grayscale、×Color Temperature、
+                    Original Gamut：6121K
+                    Gamut Coverage：REC.709：98.59%、REC.2020：82.93%、DCI-P3：89.67%
+               61.00-120.00 Hz
+                    Dynamic Booster Max Brightness：2343Nits
+                    Before Calibration Brightness：4686Nits
+                    After Calibration Brightness：4173Nits
+                    Thermal compensation：√Gamut、√Brightness、√Grayscale、×Color Temperature、
+                    Original Gamut：6136K
+                    Gamut Coverage：REC.709：98.58%、REC.2020：82.92%、DCI-P3：89.66%
+               121.00-240.00 Hz
+                    Dynamic Booster Max Brightness：2338Nits
+                    Before Calibration Brightness：4676Nits
+                    After Calibration Brightness：4167Nits
+                    Thermal compensation：√Gamut、√Brightness、√Grayscale、×Color Temperature、
+                    Original Gamut：6147K
+                    Gamut Coverage：REC.709：98.57%、REC.2020：82.86%、DCI-P3：89.58%
+          Indoor Mode：
+               23.00-60.00 Hz
+                    Dynamic Booster Max Brightness：701Nits
+                    Before Calibration Brightness：1403Nits
+                    After Calibration Brightness：1252Nits
+                    Thermal compensation：√Gamut、√Brightness、√Grayscale、×Color Temperature、
+                    Original Gamut：0K
+                    Gamut Coverage：REC.709：0.00%、REC.2020：0.00%、DCI-P3：0.00%
+               61.00-120.00 Hz
+                    Dynamic Booster Max Brightness：702Nits
+                    Before Calibration Brightness：1405Nits
+                    After Calibration Brightness：1254Nits
+                    Thermal compensation：√Gamut、√Brightness、√Grayscale、×Color Temperature、
+                    Original Gamut：6158K
+                    Gamut Coverage：REC.709：97.55%、REC.2020：85.10%、DCI-P3：92.91%
+               121.00-240.00 Hz
+                    Dynamic Booster Max Brightness：698Nits
+                    Before Calibration Brightness：1397Nits
+                    After Calibration Brightness：1247Nits
+                    Thermal compensation：√Gamut、√Brightness、√Grayscale、×Color Temperature、
+                    Original Gamut：6192K
+                    Gamut Coverage：REC.709：97.55%、REC.2020：85.14%、DCI-P3：92.81%
+
+Release Info：
+     Release No：B2
+     Author：雷俊
+     Publish Time：2025/4/24 4:18:28
+     Revised Content：1
+     Environmental Info ：软件信息
+               CabinetTool: V1.1.4.D32
+               VMP: V1.4.0
+               
+               运行环境
+               发送卡：--
+               版本：--
+
+     Release No：B1
+     Author：雷俊
+     Publish Time：2025/4/24 4:11:56
+     Revised Content：5
+     Environmental Info ：软件信息
+               CabinetTool: V1.1.4.D32
+               VMP: V1.4.0
+               
+               运行环境
+               发送卡：--
+               版本：--
+
+——————————————————————————————————————————————————————————————————————————————————————

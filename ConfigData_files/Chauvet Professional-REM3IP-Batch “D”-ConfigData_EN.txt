@@ -1,0 +1,160 @@
+File type：NCP
+Library Name：REM3IP_Chauvet Professional_B7_20250424103809
+NCP Remarks：1
+Cabinet Count：1
+Generate Time：2025/4/24 10:38:09
+Generate Person：雷俊
+——————————————————————————————————————————————————————————————————————————————————————
+Cabinet：1
+Basic Info：
+     File ID：6435F4F739629F4683449D626E31320D
+     Manufacturer：Chauvet Professional
+     Cabinet Model：REM3IP
+     Release：B7
+     Resolution：128x256
+     Pixel Pitch：3.9
+     Driver Chip：ICND2065
+     Decode Chip：Decode5958
+     Scans：16
+     Rv Card：A10s Pro
+     Version：1.2.1.3
+     Cabinet Description：W3.9-500x1000
+
+Parm Info：
+     Thermal Compensation：Manual
+     Calibration Switch：√Brightness、×Brightness and chroma、×Full-grayscale、×AutoCorrectionWEn、×Low-grayscale、×Seams
+     Low Lattency：on
+     Adaptive MultiFrameRate：V3
+
+     Display Mode：
+          Outdoor Mode：
+               23.00-60.00 Hz
+                    Dynamic Booster Max Brightness：2417Nits
+                    Before Calibration Brightness：4835Nits
+                    After Calibration Brightness：4331Nits
+                    Thermal compensation：√Gamut、√Brightness、√Grayscale、×Color Temperature、
+                    Original Gamut：6117K
+                    Gamut Coverage：REC.709：99.34%、REC.2020：82.21%、DCI-P3：89.42%
+               61.00-120.00 Hz
+                    Dynamic Booster Max Brightness：2412Nits
+                    Before Calibration Brightness：4824Nits
+                    After Calibration Brightness：4322Nits
+                    Thermal compensation：√Gamut、√Brightness、√Grayscale、×Color Temperature、
+                    Original Gamut：6135K
+                    Gamut Coverage：REC.709：99.34%、REC.2020：82.16%、DCI-P3：89.38%
+               121.00-240.00 Hz
+                    Dynamic Booster Max Brightness：2407Nits
+                    Before Calibration Brightness：4815Nits
+                    After Calibration Brightness：4313Nits
+                    Thermal compensation：√Gamut、√Brightness、√Grayscale、×Color Temperature、
+                    Original Gamut：6149K
+                    Gamut Coverage：REC.709：99.34%、REC.2020：82.08%、DCI-P3：89.30%
+          Indoor Mode：
+               23.00-60.00 Hz
+                    Dynamic Booster Max Brightness：656Nits
+                    Before Calibration Brightness：1313Nits
+                    After Calibration Brightness：1178Nits
+                    Thermal compensation：√Gamut、√Brightness、√Grayscale、×Color Temperature、
+                    Original Gamut：6171K
+                    Gamut Coverage：REC.709：98.70%、REC.2020：85.97%、DCI-P3：93.28%
+               61.00-120.00 Hz
+                    Dynamic Booster Max Brightness：659Nits
+                    Before Calibration Brightness：1319Nits
+                    After Calibration Brightness：1183Nits
+                    Thermal compensation：√Gamut、√Brightness、√Grayscale、×Color Temperature、
+                    Original Gamut：6152K
+                    Gamut Coverage：REC.709：98.71%、REC.2020：86.00%、DCI-P3：93.31%
+               121.00-240.00 Hz
+                    Dynamic Booster Max Brightness：658Nits
+                    Before Calibration Brightness：1316Nits
+                    After Calibration Brightness：1180Nits
+                    Thermal compensation：√Gamut、√Brightness、√Grayscale、×Color Temperature、
+                    Original Gamut：6179K
+                    Gamut Coverage：REC.709：98.72%、REC.2020：86.02%、DCI-P3：93.25%
+
+Release Info：
+     Release No：B7
+     Author：雷俊
+     Publish Time：2025/4/24 4:37:46
+     Revised Content：1
+     Environmental Info ：软件信息
+               CabinetTool: V1.1.4.D32
+               VMP: V1.4.0
+               
+               运行环境
+               发送卡：--
+               版本：--
+
+     Release No：B6
+     Author：雷俊
+     Publish Time：2025/4/24 4:34:20
+     Revised Content：1
+     Environmental Info ：软件信息
+               CabinetTool: V1.1.4.D32
+               VMP: V1.4.0
+               
+               运行环境
+               发送卡：--
+               版本：--
+
+     Release No：B5
+     Author：雷俊
+     Publish Time：2025/4/24 4:33:30
+     Revised Content：1
+     Environmental Info ：软件信息
+               CabinetTool: V1.1.4.D32
+               VMP: V1.4.0
+               
+               运行环境
+               发送卡：--
+               版本：--
+
+     Release No：B4
+     Author：雷俊
+     Publish Time：2025/4/24 4:29:57
+     Revised Content：1
+     Environmental Info ：软件信息
+               CabinetTool: V1.1.4.D32
+               VMP: V1.4.0
+               
+               运行环境
+               发送卡：--
+               版本：--
+
+     Release No：B3
+     Author：雷俊
+     Publish Time：2025/4/24 4:25:15
+     Revised Content：1
+     Environmental Info ：软件信息
+               CabinetTool: V1.1.4.D32
+               VMP: V1.4.0
+               
+               运行环境
+               发送卡：--
+               版本：--
+
+     Release No：B2
+     Author：雷俊
+     Publish Time：2025/4/24 4:18:28
+     Revised Content：1
+     Environmental Info ：软件信息
+               CabinetTool: V1.1.4.D32
+               VMP: V1.4.0
+               
+               运行环境
+               发送卡：--
+               版本：--
+
+     Release No：B1
+     Author：雷俊
+     Publish Time：2025/4/24 4:11:56
+     Revised Content：5
+     Environmental Info ：软件信息
+               CabinetTool: V1.1.4.D32
+               VMP: V1.4.0
+               
+               运行环境
+               发送卡：--
+               版本：--
+
+——————————————————————————————————————————————————————————————————————————————————————
