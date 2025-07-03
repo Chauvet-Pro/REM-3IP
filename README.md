@@ -27,6 +27,8 @@ Notes-
 - Change the RV card firmware from 1.2.1.3 to V1.2.2.3.
 - Solve NCP file couldn't save rotate 90° problem after power cycle.
 
+[ConfigData File](https://github.com/Chauvet-Pro/REM-3IP/raw/refs/heads/main/ConfigData_files/Chauvet%20Professional-REM3IP-Batch%20%E2%80%9CA%E2%80%9D-ConfigData_EN.txt)
+
 ## Batch "B"
 
 [V1.00.04.ncp](https://github.com/Chauvet-Pro/REM-3IP/raw/refs/heads/main/NCP_Files/REM3IP%20Batch%20B%20ncp%20V1.01.04.ncp)
