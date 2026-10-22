@@ -23,6 +23,7 @@ Notes-
 - Batch A
   - Change the RV card firmware from 1.2.1.3 to V1.2.2.3.
   - Solve NCP file couldn't save rotate 90° problem after power cycle.
+  - Keep Full grayscale turned off at all time when module flashing
 
 [V1.00.03.ncp](https://github.com/Chauvet-Pro/REM-3IP/raw/refs/heads/main/NCP_Files/REM3IP%20Batch%20A%20ncp%20V1.00.03.ncp) 
 - Batch A, launching version
@@ -35,6 +36,7 @@ Notes-
 - Batch B
   - Change the RV card firmware from 1.2.1.3 to V1.2.2.3.
   - Solve NCP file couldn't save rotate 90° problem after power cycle.
+  - Keep Full grayscale turned off at all time when module flashing
 
 [V1.00.04.ncp](https://github.com/Chauvet-Pro/REM-3IP/raw/refs/heads/main/NCP_Files/REM3IP%20Batch%20B%20ncp%20V1.01.04.ncp)
 - Batch B, Launching Version 
@@ -46,6 +48,7 @@ Notes-
 - Batch C
   - Change the RV card firmware from 1.2.1.3 to V1.2.2.3.
   - Solve NCP file couldn't save rotate 90° problem after power cycle.
+  - Keep Full grayscale turned off at all time when module flashing
 
 [V1.00.06.ncp](https://github.com/Chauvet-Pro/REM-3IP/raw/refs/heads/main/NCP_Files/REM3IP%20Batch%20C%20ncp%20V1.00.06.ncp)
 - Batch C, Launching Version
@@ -56,6 +59,7 @@ Notes-
 - Batch D
   - Change the RV card firmware from 1.2.1.3 to V1.2.2.3.
   - Solve NCP file couldn't save rotate 90° problem after power cycle.
+  - Keep Full grayscale turned off at all time when module flashing
 
 [V1.00.07.ncp](https://github.com/Chauvet-Pro/REM-3IP/raw/refs/heads/main/NCP_Files/REM3IP%20Batch%20D%20ncp%20V1.00.07.ncp)
 - Batch D, Launching Version
@@ -71,6 +75,7 @@ Notes-
 - Batch A
   - Change the RV card firmware from 1.2.1.3 to V1.2.2.3.
   - Solve NCP file couldn't save rotate 90° problem after power cycle.
+  - Keep Full grayscale turned off at all time when module flashing
 
 [V1.00.03.ncp](https://github.com/Chauvet-Pro/REM-3IP/raw/refs/heads/main/NCP_Files/REM3IPSQ%20Batch%20A%20ncp%20V1.00.03.ncp)
 - Batch A, launching version
@@ -83,6 +88,7 @@ Notes-
 - Batch B
   - Change the RV card firmware from 1.2.1.3 to V1.2.2.3.
   - Solve NCP file couldn't save rotate 90° problem after power cycle.
+  - Keep Full grayscale turned off at all time when module flashing
 
 [V1.00.03.ncp](https://github.com/Chauvet-Pro/REM-3IP/raw/refs/heads/main/NCP_Files/REM3IPSQ%20Batch%20B%20ncp%20V1.00.04.ncp)
 - Batch B, launching version
